@@ -2,7 +2,8 @@
 
 ## Schematic :
 
-![image](https://user-images.githubusercontent.com/60093808/149469040-f447b663-0ad9-45e4-bf8b-8be505c1567b.png)
+![image](https://user-images.githubusercontent.com/60093808/149469958-d133eac3-50b9-44ca-8682-3d8baf0cdec5.png)
+
 
 ## Circuit Diagram :
 
